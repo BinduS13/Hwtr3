@@ -1,0 +1,15 @@
+C:\Users\bindu\source\repos\Hwtr_3\bin\Debug\net8.0\Hwtr_3.exe
+C:\Users\bindu\source\repos\Hwtr_3\bin\Debug\net8.0\Hwtr_3.deps.json
+C:\Users\bindu\source\repos\Hwtr_3\bin\Debug\net8.0\Hwtr_3.runtimeconfig.json
+C:\Users\bindu\source\repos\Hwtr_3\bin\Debug\net8.0\Hwtr_3.dll
+C:\Users\bindu\source\repos\Hwtr_3\bin\Debug\net8.0\Hwtr_3.pdb
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.AssemblyInfoInputs.cache
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.AssemblyInfo.cs
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.csproj.CoreCompileInputs.cache
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.sourcelink.json
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.dll
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\refint\Hwtr_3.dll
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.pdb
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\Hwtr_3.genruntimeconfig.cache
+C:\Users\bindu\source\repos\Hwtr_3\obj\Debug\net8.0\ref\Hwtr_3.dll
